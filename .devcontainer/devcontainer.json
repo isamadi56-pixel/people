@@ -21,7 +21,7 @@
     }
   },
   "forwardPorts": [
-    8443
+    443
   ],
   "hostRequirements": {
     "cpus": 2
